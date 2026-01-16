@@ -59,7 +59,8 @@ collaborative-canvas/
 ### 1. Clone the repository
 ```bash
 git clone <your-repo-url>
-cd collaborative-canvas
+cd Desktop\collaborative-canva
+
 
 2. Install dependencies
 npm install 
@@ -75,3 +76,4 @@ The application will be available at:
 http://localhost:3000
 
  
+
