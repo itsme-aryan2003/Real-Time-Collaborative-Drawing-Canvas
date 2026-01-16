@@ -49,6 +49,8 @@ collaborative-canvas/
 ├── README.md
 └── ARCHITECTURE.md
 
+<img width="1920" height="865" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/6ef330c1-8578-4afe-afdf-9d5c2b5465bc" />
+<img width="1920" height="863" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/ff89dd42-0684-4674-8f79-02b364808abc" />
 
 ---
 
@@ -67,6 +69,9 @@ npm start
 
 
 
+
+
 The application will be available at:
 http://localhost:3000
+
  
